@@ -1,7 +1,6 @@
 <!-- markdownlint-disable -->
 <p align="center">
     <img src="https://raw.githubusercontent.com/shhdharmen/keyboard-css/main/src/copy/assets/logo.png" alt="Keyboard CSS Logo">
-  <img src="https://raw.githubusercontent.com/shhdharmen/keyboard-css/main/src/copy/assets/logo.png" alt="Keyboard CSS Logo">
 </p>
 
 <p align="center">
@@ -9,7 +8,8 @@
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/shhdharmen/keyboard-css/main/src/copy/assets/demo.gif" alt="Keyboard CSS Demo">
+    <img src="https://github.com/Sunil-Kumar-KV/color-Keyboard/blob/main/assets/demo.gif" alt="Keyboard CSS Demo">
+    <img src="https://github.com/Sunil-Kumar-KV/color-Keyboard/blob/main/assets/keyboard.png" alt="Keyboard Design">
 </p>
 <!-- markdownlint-restore -->
 
@@ -45,7 +45,7 @@ yarn add keyboard-css
 
 ### Contributing
 
-🙏 I would ❤️ for you to contribute to Keyboard CSS and help make it even better than it is today! Checkout [contributing](https://github.com/shhdharmen/keyboard-css/blob/main/CONTRIBUTING.md) guidelines for more details.
+🙏 I would ❤️ for you to contribute to Keyboard CSS and help make it even better than it is today! Checkout [contributing](https://github.com/Sunil-Kumar-KV/color-Keyboard/blob/main/Contributing.md) guidelines for more details.
 
 ## Contributors ✨
 
